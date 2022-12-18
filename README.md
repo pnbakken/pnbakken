@@ -18,7 +18,7 @@ Hi there! I'm a student front-end developer.
 ## 🔭 I’m currently working on ...
 
 - Various side projects
-- Being very open to job-opportunities
+- Being very open to full-time, part-time, and freelance job-opportunities
 
 ## 📫 How to reach me
 
