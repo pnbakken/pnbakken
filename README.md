@@ -1,6 +1,6 @@
 # Pål N. Bakken
 
-Hi there! I'm a student front-end developer. 
+Hi there! I'm a front-end developer. 
 
 
 ## Tech-stack
