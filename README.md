@@ -25,17 +25,6 @@ Hi there! I'm a student front-end developer.
 - [Personal website](https://pnbakken.no)
 - [LinkedIn](https://www.linkedin.com/in/p%C3%A5l-bakken-0b2295204/)
 
-## When I'm not working on awesome websites you can find me...
-
-- Strumming and singing
-- Out photographing
-- Snatching and clean and jerking
-- Gaming
-
-## - 🌱 I’m currently learning
-
-- Front-end development
-
 <!--
 **pnbakken/pnbakken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
