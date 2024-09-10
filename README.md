@@ -22,7 +22,7 @@ Hi there! I'm a front-end developer.
 
 ## 📫 How to reach me
 
-- [Personal website](https://pnbakken.no)
+- [Personal website](https://pnbakken.com)
 - [LinkedIn](https://www.linkedin.com/in/p%C3%A5l-bakken-0b2295204/)
 
 <!--
