@@ -22,7 +22,7 @@ Hi there! I'm a front-end developer.
 ## 📫 How to reach me
 
 - [Personal website](https://pnbakken.com)
-- [LinkedIn](https://www.linkedin.com/in/p%C3%A5l-bakken-0b2295204/)
+- [LinkedIn](https://www.linkedin.com/in/pal-nicholas-bakken-0b2295204)
 
 <!--
 **pnbakken/pnbakken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
