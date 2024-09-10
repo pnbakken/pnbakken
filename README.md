@@ -13,12 +13,11 @@ Hi there! I'm a front-end developer.
 - [SASS](https://sass-lang.com/)
 - [Strapi](https://strapi.io)
 - [WordPress](https://wordpress.com)
-- [Firebase](https://firebase.google.com)
 
 ## 🔭 I’m currently working on ...
 
-- Various side projects
-- Being very open to full-time, part-time, and freelance job-opportunities
+- Employed as a web developer with Excite Technologies
+- A couple of side projects
 
 ## 📫 How to reach me
 
