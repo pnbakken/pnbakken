@@ -16,8 +16,7 @@ Hi there! I'm a front-end developer.
 
 ## 🔭 I’m currently working on ...
 
-- Employed as a web developer with Excite Technologies
-- A couple of side projects
+- I'm working as a sytems developer for Omega365 Solutions
 
 ## 📫 How to reach me
 
