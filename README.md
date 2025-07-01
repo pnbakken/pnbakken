@@ -16,7 +16,7 @@ Hi there! I'm a front-end developer.
 
 ## 🔭 I’m currently working on ...
 
-- I'm working as a sytems developer for Omega365 Solutions
+- I'm working as a systems developer for Omega365 Solutions
 
 ## 📫 How to reach me
 
